@@ -28,7 +28,7 @@ facility. The chat-bot will ask to state the symptoms which the user is experien
 
 **Results:**
 
-CHatbot Implementation:
+Chatbot Implementation:
 
 ![image](https://github.com/Manaswi-Vichare/HealthCare-Chatbot/assets/83514527/73323703-b8f1-4c99-aa01-44ebde12192c)
 
@@ -53,3 +53,29 @@ Report Prediction Page - Malaria:
 ![image](https://github.com/Manaswi-Vichare/HealthCare-Chatbot/assets/83514527/ba199b32-2ee1-4288-9bb9-f458ee65abab)
 
 ![image](https://github.com/Manaswi-Vichare/HealthCare-Chatbot/assets/83514527/3a919567-b85a-44e2-be2a-e41e74e32770)
+
+**Datasets:**
+
+Breast cancer: https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data
+
+Diabetes: https://www.kaggle.com/datasets/saurabh00007/diabetescsv
+
+Heart: https://www.kaggle.com/datasets/zhaoyingzhu/heartcsv
+
+Liver: https://www.kaggle.com/datasets/uciml/indian-liver-patient-records
+
+Kidney: https://www.kaggle.com/datasets/mansoordaku/ckdisease
+
+Malaria: https://www.kaggle.com/code/imdevskp/malaria-affected-cells-detection-using-cnn
+
+Pneumonia: https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia
+
+Disease Symptoms: https://www.kaggle.com/datasets/uom190346a/disease-symptoms-and-patient-profile-dataset 
+
+Symptom-severity: https://www.kaggle.com/datasets/itachi9604/disease-symptom-description-dataset
+
+Symptom-precaution: https://docs.google.com/spreadsheets/d/1juNi9CgfHxdbR1U4vbdrsYtg5xhSpcJBnxgonaU7kOI/edit?usp=sharing
+
+Symptom-description: https://docs.google.com/spreadsheets/d/13s6JqeHKgzj8QOqXbUB5PKmF-jKx4REA1stYnxmTUGo/edit?usp=sharing
+
+Doctor's Dataset: https://docs.google.com/spreadsheets/d/1c2bjgPdVSnLYJLz4S5aSSPRhXMAaIzwkgpjgs3Mq80g/edit?usp=sharing
